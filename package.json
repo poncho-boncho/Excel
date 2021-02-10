@@ -24,8 +24,7 @@
   },
   "homepage": "https://github.com/poncho-boncho/Exel#readme",
   "dependencies": {
-    "@babel/polyfill": "^7.12.1",
-    "normalize.css": "^8.0.1"
+    "@babel/polyfill": "^7.12.1"
   },
   "browserslist": ">0.25%, not dead",
   "devDependencies": {
